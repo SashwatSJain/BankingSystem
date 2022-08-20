@@ -2,7 +2,6 @@
 [![Python Version](https://img.shields.io/static/v1.svg?label=Python&message=3.x&color=blue)]()
 ======
 # Employee Management System v1.0
-======
 A program which can manage multiple bank accounts in an SQL database and perform transactions
 ======
 ## Installation
